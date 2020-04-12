@@ -1,5 +1,5 @@
 # awesome-multi-view-clustering
-collections for advanced, novel multi-view clustering methods(papers , codes and datasets)
+Collections for state-of-the-art(SOTA), novel multi-view clustering methods(papers , codes and datasets)
 
 ---
 
