@@ -4,6 +4,7 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ##  Table of Contents
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
+    -[Graph Clustering](#ijump21)
 - [Benchmark Datasets](#jump3)
 
 ---
@@ -22,7 +23,7 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ## <span id="jump2">Papers </span>
 Papers are listed in the following methods:graph clustering, NMF-based clustering, co-regularized, subspace clustering and multi-kernel clustering
 
-### Graph Clusteirng
+### ## <span id="jump21">Graph Clusteirng</span>
 
 ### Multiple Kenrel Clustering(MKC)
 1.  AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819) [code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)
