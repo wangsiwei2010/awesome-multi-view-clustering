@@ -9,3 +9,4 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### Graph clusteirng
 
 ### Multiple Kenrel Clustering(MKC)
+1.  AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819)
