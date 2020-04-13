@@ -47,7 +47,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 ### <span id="jump24">Deep Multi-view Clustering</span> 
-1. TIP2019: Multi-view Deep Subspace Clustering Networks[Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
+1. TIP2019: Multi-view Deep Subspace Clustering Networks [Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
 1. TKDE2020: Joint Deep Multi-View Learning for Image Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8999493/)
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
