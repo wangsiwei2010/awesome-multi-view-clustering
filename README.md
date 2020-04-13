@@ -4,7 +4,7 @@ Collections for state-of-the-art(SOTA), novel multi-view clustering methods(pape
 ##  Table of Contents
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
-- [Datasets](#jump3)
+- [Benchmark Datasets](#jump3)
 
 ---
 
