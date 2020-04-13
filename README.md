@@ -18,3 +18,6 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### Subspace Clustering
 1. IJCAI19: Flexible multi-view representation learning for subspace clustering [paper](https://www.ijcai.org/Proceedings/2019/0404.pdf) [code](https://github.com/lslrh/FMR)
+
+### Deep Multi-view Clustering
+1.TKDE20: Joint Deep Multi-View Learning for Image Clustering [paper](https://ieeexplore.ieee.org/abstract/document/8999493/)
