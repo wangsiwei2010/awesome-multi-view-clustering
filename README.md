@@ -1,9 +1,12 @@
 # awesome-multi-view-clustering
 Collections for state-of-the-art(SOTA), novel multi-view clustering methods(papers , codes and datasets)
 
+## Table of Contents
+### [Surveys] (#jump1) 
+
 ---
 
-## Important Survey Papers
+##  <span id="jump1">Important Survey Papers </span>
 1. A study of graph-based system for multi-view clustering [paper](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf)
 
 2. Multi-view clustering: A survey [paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
