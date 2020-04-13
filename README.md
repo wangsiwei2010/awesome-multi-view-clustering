@@ -4,7 +4,7 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ##  Table of Contents
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
-    -[Graph Clustering](#ijump21)
+    -[Graph Clustering](#jump21)
 - [Benchmark Datasets](#jump3)
 
 ---
