@@ -6,7 +6,7 @@ Collections for state-of-the-art(SOTA), novel multi-view clustering methods(pape
 ## Important Survey Papers
 1. A study of graph-based system for multi-view clustering [paper](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf)
 
-2.Multi-view clustering: A survey [paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
+2. Multi-view clustering: A survey [paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
 
 ## Papers
 Papers are listed in the following methods:graph clustering, NMF-based clustering, co-regularized, subspace clustering and multi-kernel clustering
