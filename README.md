@@ -9,9 +9,13 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ---
 
 ##  <span id="jump1">Important Survey Papers </span>
+1. A survey on multi-view learning [Paper](https://arxiv.org/pdf/1304.5634)
+
 1. A study of graph-based system for multi-view clustering [paper](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf)
 
 2. Multi-view clustering: A survey [paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
+
+3. Multi-view learning overview: Recent progress and new challenges [Paper](https://www.researchgate.net/profile/Shiliang_Sun2/publication/314251895_Multi-view_Learning_Overview_Recent_Progress_and_New_Challenges/links/5def9d8f92851c836470978c/Multi-view-Learning-Overview-Recent-Progress-and-New-Challenges.pdf)
 
 ---
 
