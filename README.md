@@ -1,7 +1,7 @@
 # awesome-multi-view-clustering
 Collections for state-of-the-art(SOTA), novel multi-view clustering methods(papers , codes and datasets)
 
-## Table of Contents
+##    Table of Contents
 ### [Surveys](#jump1) 
 
 ---
