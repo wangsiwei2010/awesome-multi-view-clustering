@@ -7,7 +7,7 @@ We are looking forward for other participants to share their papers and codes. I
 - [Surveys](#jump1) 
 - [Papers and Codes](#jump2)
     - [Graph Clustering](#jump21)
-    - [Multiple Kenrel Clustering(MKC)](#jump22)
+    - [Multiple Kenrel Clustering (MKC)](#jump22)
     - [Subspace Clustering](#jump23)
     - [Deep Multi-view Clustering](#jump24)
     - [Binary Multi-view Clustering](#jump25)
