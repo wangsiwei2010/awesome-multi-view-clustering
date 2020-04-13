@@ -28,6 +28,7 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 Papers are listed in the following methods:graph clustering, NMF-based clustering, co-regularized, subspace clustering and multi-kernel clustering
 
 ### <span id="jump21">Graph Clusteirng</span> 
+1. AAAI15: Large-Scale Multi-View Spectral Clustering via Bipartite Graph [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9641/9937) [code](https://github.com/zzz123xyz/MVSC)
 1. TKDE19: GMC: Graph-based Multi-view Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8662703) [code](https://github.com/cshaowang/gmc)
 
 ### <span id="jump23">Multiple Kenrel Clustering(MKC)</span> 
@@ -35,12 +36,18 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump23">Subspace Clustering</span> 
 1. AAAI 2018 Consistent and Specific Multi-view Subspace Clustering [Paper](https://github.com/XIAOCHUN-CAS/Academic-Publications/blob/master/Conference/2018_AAAI_Luo.pdf) [code](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
+
 1. PR2018: Multi-view Low-rank Sparse Subspace Clustering [Paper](https://arxiv.org/abs/1708.08732) [code](https://github.com/wangsiwei2010/Multi-view-LRSSC)
+
+1. TIP2019: Split Multiplicative Multi-view Subspace Clustering [Paper](https://www.researchgate.net/publication/333007034_Split_Multiplicative_Multi-view_Subspace_Clustering) [code](https://github.com/joshuaas/SM2SC)
 
 1. IJCAI19: Flexible multi-view representation learning for subspace clustering [Paper](https://www.ijcai.org/Proceedings/2019/0404.pdf) [code](https://github.com/lslrh/FMR)
 
+1. ICCV19: Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Reciprocal_Multi-Layer_Subspace_Learning_for_Multi-View_Clustering_ICCV_2019_paper.pdf) [code](https://github.com/lslrh/RMSL)
+
 
 ### <span id="jump24">Deep Multi-view Clustering</span> 
+1. TIP2019: Multi-view Deep Subspace Clustering Networks[Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
 1. TKDE2020: Joint Deep Multi-View Learning for Image Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8999493/)
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
