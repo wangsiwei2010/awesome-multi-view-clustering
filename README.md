@@ -13,6 +13,8 @@ Collections for state-of-the-art(SOTA), novel multi-view clustering methods(pape
 
 2. Multi-view clustering: A survey [paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
 
+---
+
 ## <span id="jump2">Papers </span>
 Papers are listed in the following methods:graph clustering, NMF-based clustering, co-regularized, subspace clustering and multi-kernel clustering
 
