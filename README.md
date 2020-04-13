@@ -12,7 +12,7 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ##  <span id="jump1">Important Survey Papers </span>
 1. A survey on multi-view learning [Paper](https://arxiv.org/pdf/1304.5634)
 
-1. A study of graph-based system for multi-view clustering [Paper](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf)
+1. A study of graph-based system for multi-view clustering [Paper](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf) [code](https://github.com/cswanghao/gbs)
 
 1. Multi-view clustering: A survey [Paper](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
 
@@ -23,7 +23,8 @@ Collections for state-of-the-art (SOTA), novel multi-view clustering methods(pap
 ## <span id="jump2">Papers </span>
 Papers are listed in the following methods:graph clustering, NMF-based clustering, co-regularized, subspace clustering and multi-kernel clustering
 
-### <span id="jump21">Graph Clusteirng</span>
+### <span id="jump21">Graph Clusteirng</span> 
+1. TKDE19: GMC: Graph-based Multi-view Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8662703) [code](https://github.com/cshaowang/gmc)
 
 ### Multiple Kenrel Clustering(MKC)
 1.  AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819) [code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)
