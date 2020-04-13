@@ -2,9 +2,9 @@
 Collections for state-of-the-art(SOTA), novel multi-view clustering methods(papers , codes and datasets)
 
 ##  Table of Contents
-### [Surveys](#jump1) 
-### [Papers and Codes](#jump2)
-### [Datasets](#jump3)
+- [Surveys](#jump1) 
+- [Papers and Codes](#jump2)
+- [Datasets](#jump3)
 
 ---
 
