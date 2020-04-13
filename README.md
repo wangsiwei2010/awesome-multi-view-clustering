@@ -12,6 +12,8 @@ We are looking forward for other participants to share their papers and codes. I
     - [Deep Multi-view Clustering](#jump24)
     - [Binary Multi-view Clustering](#jump25)
 - [Benchmark Datasets](#jump3)
+    - [Oringinal Datasets](#jump31)
+    - [Kernelized Datasets](#jump32)
 
 ---
 
@@ -69,3 +71,5 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ---
 
 ## <span id="jump3">Benchmark Datasets</span>
+### <span id="jump31">Oringinal Datasets</span>
+### <span id="jump32">Kernelized Datasets</span>
