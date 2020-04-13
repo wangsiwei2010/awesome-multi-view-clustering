@@ -40,9 +40,9 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 ### <span id="jump22">Multiple Kenrel Clustering(MKC)</span> 
-1. NIPS14: Localized Data Fusion for Kernel k-Means Clustering with Application to Cancer Biology [Paper](https://papers.nips.cc/paper/5236-localized-data-fusion-for-kernel-k-means-clustering-with-application-to-cancer-biology.pdf)[code](https://github.com/mehmetgonen/lmkkmeans)
+1. NIPS14: Localized Data Fusion for Kernel k-Means Clustering with Application to Cancer Biology [Paper](https://papers.nips.cc/paper/5236-localized-data-fusion-for-kernel-k-means-clustering-with-application-to-cancer-biology.pdf) [code](https://github.com/mehmetgonen/lmkkmeans)
 
-1. IJCAI15： Robust Multiple Kernel K-means using L21-norm [Paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11332/11224)[code](https://github.com/csliangdu/RMKKM)
+1. IJCAI15： Robust Multiple Kernel K-means using L21-norm [Paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11332/11224) [code](https://github.com/csliangdu/RMKKM)
 
 1. AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819) [code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)
 
