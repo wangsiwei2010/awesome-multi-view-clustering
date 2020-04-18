@@ -34,6 +34,8 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### <span id="jump21">Graph Clusteirng</span> 
 1. AAAI15: Large-Scale Multi-View Spectral Clustering via Bipartite Graph [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9641/9937) [code](https://github.com/zzz123xyz/MVSC)
 
+1. TKDE2018： One-step multi-view spectral clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8478288/) [code]()
+
 1. TKDE19: GMC: Graph-based Multi-view Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8662703) [code](https://github.com/cshaowang/gmc)
 
 1. ICDM2019: Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [Paper](https://www.researchgate.net/profile/Dong_Huang9/publication/335857675_Consistency_Meets_Inconsistency_A_Unified_Graph_Learning_Framework_for_Multi-view_Clustering/links/5d809ca7458515fca16e3776/Consistency-Meets-Inconsistency-A-Unified-Graph-Learning-Framework-for-Multi-view-Clustering.pdf) [code](https://github.com/youweiliang/ConsistentGraphLearning)
