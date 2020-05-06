@@ -85,3 +85,13 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### <span id="jump32">Kernelized Datasets</span>
 1. The following kernelized datasets are created by our team. For more information, you can ask <wangsiwei13@nudt.edu.cn> for help.
 [address](https://pan.baidu.com/s/1RjxLz0cvXA8Q6CUm1s1KDw) （code）3ole 
+
+If you use our code or datasets, please cite our with the following bibtex code :
+```
+@inproceedings{liu2016multiple,
+  title={Multiple kernel k-means clustering with matrix-induced regularization},
+  author={Liu, Xinwang and Dou, Yong and Yin, Jianping and Wang, Lei and Zhu, En},
+  booktitle={Thirtieth AAAI conference on artificial intelligence},
+  year={2016}
+}
+```
