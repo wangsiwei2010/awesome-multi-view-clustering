@@ -83,3 +83,5 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 1. It contains seven widely-used multi-view datasets: Handwritten (HW), Caltech-7/20, BBCsports, Nuswide, ORL and Webkb. Released by Baidu Service.
 [address](https://pan.baidu.com/s/1hG2zL40RxVaJ_p53gBM7kA) （code）gaih
 ### <span id="jump32">Kernelized Datasets</span>
+1. The following kernelized datasets are created by our team. For more information, you can ask <wangsiwei13@nudt.edu.cn> for help.
+[address](https://pan.baidu.com/s/1RjxLz0cvXA8Q6CUm1s1KDw) （code）3ole 
