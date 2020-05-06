@@ -80,5 +80,5 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ## <span id="jump3">Benchmark Datasets</span>
 ### <span id="jump31">Oringinal Datasets</span>
-1. [address](https://pan.baidu.com/s/1hG2zL40RxVaJ_p53gBM7kA) （code）gaih
+1. It contains seven widely-used multi-view datasets: Handwritten (HW), Caltech-7/20, BBCsports, Nuswide, ORL and Webkb.[address](https://pan.baidu.com/s/1hG2zL40RxVaJ_p53gBM7kA) （code）gaih
 ### <span id="jump32">Kernelized Datasets</span>
