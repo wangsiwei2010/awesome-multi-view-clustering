@@ -88,13 +88,6 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 If you use our code or datasets, please cite our with the following bibtex code :
 ```
-@inproceedings{liu2016multiple,
-  title={Multiple kernel k-means clustering with matrix-induced regularization},
-  author={Liu, Xinwang and Dou, Yong and Yin, Jianping and Wang, Lei and Zhu, En},
-  booktitle={Thirtieth AAAI conference on artificial intelligence},
-  year={2016}
-}
-
 @inproceedings{wang2019multi,
   title={Multi-view clustering via late fusion alignment maximization},
   author={Wang, Siwei and Liu, Xinwang and Zhu, En and Tang, Chang and Liu, Jiyuan and Hu, Jingtao and Xia, Jingyuan and Yin, Jianping},
