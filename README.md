@@ -48,7 +48,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819) [code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)
 
-1. IJCAI19:  Multi-view Clustering with Late Fusion Alignment Maximization [paper](https://www.ijcai.org/proceedings/2019/0524.pdf) [code](https://github.com/wangsiwei2010/latefusionalignment)
+1. IJCAI19:  Multi-view Clustering with Late Fusion Alignment Maximization [Paper](https://www.ijcai.org/proceedings/2019/0524.pdf) [code](https://github.com/wangsiwei2010/latefusionalignment)
 
 ### <span id="jump23">Subspace Clustering</span> 
 1. CVPR2015 Diversity-induced Multi-view Subspace Clustering [Paper](https://www.zpascal.net/cvpr2015/Cao_Diversity-Induced_Multi-View_Subspace_2015_CVPR_paper.pdf) [code](http://cic.tju.edu.cn/faculty/zhangchangqing/code/DiMSC.rar)
@@ -93,5 +93,14 @@ If you use our code or datasets, please cite our with the following bibtex code 
   author={Liu, Xinwang and Dou, Yong and Yin, Jianping and Wang, Lei and Zhu, En},
   booktitle={Thirtieth AAAI conference on artificial intelligence},
   year={2016}
+}
+
+@inproceedings{wang2019multi,
+  title={Multi-view clustering via late fusion alignment maximization},
+  author={Wang, Siwei and Liu, Xinwang and Zhu, En and Tang, Chang and Liu, Jiyuan and Hu, Jingtao and Xia, Jingyuan and Yin, Jianping},
+  booktitle={Proceedings of the 28th International Joint Conference on Artificial Intelligence},
+  pages={3778--3784},
+  year={2019},
+  organization={AAAI Press}
 }
 ```
