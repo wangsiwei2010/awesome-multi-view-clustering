@@ -9,6 +9,7 @@ We are looking forward for other participants to share their papers and codes. I
     - [Graph Clustering](#jump21)
     - [Multiple Kenrel Clustering (MKC)](#jump22)
     - [Subspace Clustering](#jump23)
+    - [NMF-based Clustering](#jump26)
     - [Deep Multi-view Clustering](#jump24)
     - [Binary Multi-view Clustering](#jump25)
 - [Benchmark Datasets](#jump3)
@@ -74,6 +75,10 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
 1. TPAMI2019: Binary Multi-View Clustering [Paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) [code](https://github.com/DarrenZZhang/BMVC)
+
+
+### <span id="jump26">NMF-based Multi-view Clustering</span> 
+1. AAAI20: BMulti-view Clustering in Latent Embedding Space [Paper](https://www.researchgate.net/profile/Dong_Huang9/publication/338883065_Multi-view_Clustering_in_Latent_Embedding_Space/links/5e30e4ee458515072d6ab048/Multi-view-Clustering-in-Latent-Embedding-Space.pdf?_sg%5B0%5D=c7_LGDqrWNZ_2R_YVqZW5paGs4aiAWHyL5Vm6D9xC-qLrwZgnT5PnHd5qcLIWLjUU1w1sMRvcFieskwMXfiUxA.C7MpmX3wox2zTGV_rHjWvJVYUcWBn5cx271Yud84FlPQiu_W8azOItQWDVbvUiM3bw4kxI_zLS8mGKTKMl5f3w&_sg%5B1%5D=Ug4z3sxpjLL5fvIFDmpbr9hht6CQIYTxXEPWuPHRJZvOOuGvEI2QyxzM8WX0M3c0SkQeyoVq3fnE9kyqH5TWHTslmLrQDWSN3t6xvMVZkLTi.C7MpmX3wox2zTGV_rHjWvJVYUcWBn5cx271Yud84FlPQiu_W8azOItQWDVbvUiM3bw4kxI_zLS8mGKTKMl5f3w&_iepl=) [code](https://github.com/Ttuo123/MCLES)
 
 
 ---
