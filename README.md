@@ -72,6 +72,9 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. TIP2019: Multi-view Deep Subspace Clustering Networks [Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
 1. TKDE2020: Joint Deep Multi-View Learning for Image Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8999493/)
+2. ICML2019: COMIC: Multi-view Clustering Without Parameter Selection [paper](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf)[code](https://github.com/limit-scu/2019-ICML-COMIC)
+3. IJCAI2019: Multi-view Spectral Clustering Network [paper](https://www.ijcai.org/Proceedings/2019/0356.pdf)[code](https://github.com/limit-scu/2019-IJCAI-MvSCN)
+
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
 1. TPAMI2019: Binary Multi-View Clustering [Paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) [code](https://github.com/DarrenZZhang/BMVC)
