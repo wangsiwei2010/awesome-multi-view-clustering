@@ -35,6 +35,8 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### <span id="jump21">Graph Clusteirng</span> 
 1. AAAI15: Large-Scale Multi-View Spectral Clustering via Bipartite Graph [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9641/9937) [code](https://github.com/zzz123xyz/MVSC)
 
+1. IJCAI17: Self-Weighted Multiview Clustering with Multiple Graphs" [Paper](https://www.ijcai.org/Proceedings/2017/0357.pdf) [code](https://github.com/kylejingli/SwMC-IJCAI17)
+
 1. TKDE2018： One-step multi-view spectral clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8478288/) [code]()
 
 1. TKDE19: GMC: Graph-based Multi-view Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8662703) [code](https://github.com/cshaowang/gmc)
