@@ -53,6 +53,8 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. IJCAI19:  Multi-view Clustering with Late Fusion Alignment Maximization [Paper](https://www.ijcai.org/proceedings/2019/0524.pdf) [code](https://github.com/wangsiwei2010/latefusionalignment)
 
+1. TNNLS2019:  Multiple kernel clustering with neighbor-kernel subspace segmentation [Paper](https://ieeexplore.ieee.org/document/8750871) [code](https://github.com/SihangZhou/Demo-of-Multiple-Kernel-Clustering-with-Neighbor-Kernel-Subspace-Segmentation)
+
 ### <span id="jump23">Subspace Clustering</span> 
 1. CVPR2015 Diversity-induced Multi-view Subspace Clustering [Paper](https://www.zpascal.net/cvpr2015/Cao_Diversity-Induced_Multi-View_Subspace_2015_CVPR_paper.pdf) [code](http://cic.tju.edu.cn/faculty/zhangchangqing/code/DiMSC.rar)
 
