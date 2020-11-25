@@ -94,6 +94,8 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### <span id="jump31">Oringinal Datasets</span>
 1. It contains seven widely-used multi-view datasets: Handwritten (HW), Caltech-7/20, BBCsports, Nuswide, ORL and Webkb. Released by Baidu Service.
 [address](https://pan.baidu.com/s/1hG2zL40RxVaJ_p53gBM7kA) （code）gaih
+
+
 | Name of dataset | Samples | Views | Clusters | Original   location                                                                                                                                           |                                             |   |   |
 |-----------------|---------|-------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---|---|
 | Handwritten     | 2000    | 6     | 10       |                                                                                                                                                               |                                             |   |   |
