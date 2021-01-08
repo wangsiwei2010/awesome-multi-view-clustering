@@ -115,7 +115,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump32">Kernelized Datasets</span>
 1. The following kernelized datasets are created by our team. For more information, you can ask <wangsiwei13@nudt.edu.cn> for help.
-[address](https://pan.baidu.com/s/1RjxLz0cvXA8Q6CUm1s1KDw) （code）3ole 
+[address](https://pan.baidu.com/s/1sOpNOG_3BlNPoxhwLKbUEQ) （code）y44e 
 
 If you use our code or datasets, please cite our with the following bibtex code :
 ```
@@ -128,3 +128,4 @@ If you use our code or datasets, please cite our with the following bibtex code 
   organization={AAAI Press}
 }
 ```
+
