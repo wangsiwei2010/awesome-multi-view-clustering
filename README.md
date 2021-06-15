@@ -21,10 +21,12 @@ We are looking forward for other participants to share their papers and codes. I
 ---
 
 ##  <span id="jump1">Important Survey Papers </span>
-1. Xu, Chang, Dacheng Tao, and Chao Xu. "A survey on multi-view learning" (2013) Cite: 897 [[Paper]](https://arxiv.org/pdf/1304.5634)
-2. Wang, Hao, et al. "A study of graph-based system for multi-view clustering" (2019) Cite: 102 [[Paper]](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf) [[code]](https://github.com/cswanghao/gbs)
-3. Yang, Yan, and Hao Wang. "Multi-view clustering: A survey" (2018) Cite: 117 [[Paper]](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
-4. Zhao, Jing, et al. "Multi-view learning overview: Recent progress and new challenges" (2017) Cite: 419 [[Paper]](https://www.researchgate.net/profile/Shiliang_Sun2/publication/314251895_Multi-view_Learning_Overview_Recent_Progress_and_New_Challenges/links/5def9d8f92851c836470978c/Multi-view-Learning-Overview-Recent-Progress-and-New-Challenges.pdf)
+1. Xu, Chang, Dacheng Tao, and Chao Xu. "A survey on multi-view learning" (2013) cited by: 897 [[Paper]](https://arxiv.org/pdf/1304.5634)
+2. Wang, Hao, et al. "A study of graph-based system for multi-view clustering" (2019) cited by: 102 [[Paper]](https://www.researchgate.net/profile/Hao_Wang250/publication/328573967_A_study_of_graph-based_system_for_multi-view_clustering/links/5cbff7e5299bf120977adaa6/A-study-of-graph-based-system-for-multi-view-clustering.pdf) [[code]](https://github.com/cswanghao/gbs)
+3. Yang, Yan, and Hao Wang. "Multi-view clustering: A survey" (2018) cited by: 117 [[Paper]](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf)
+4. Zhao, Jing, et al. "Multi-view learning overview: Recent progress and new challenges" (2017) cited by: 419 [[Paper]](https://www.researchgate.net/profile/Shiliang_Sun2/publication/314251895_Multi-view_Learning_Overview_Recent_Progress_and_New_Challenges/links/5def9d8f92851c836470978c/Multi-view-Learning-Overview-Recent-Progress-and-New-Challenges.pdf)
+
+**Note:** The number of citation was calculated by Google Scholar until 15th June. 2021.
 
 ---
 
