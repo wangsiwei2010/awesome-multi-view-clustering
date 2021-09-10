@@ -13,6 +13,7 @@ We are looking forward for other participants to share their papers and codes. I
     - [Deep Multi-view Clustering](#jump24)
     - [Binary Multi-view Clustering](#jump25)
     - [Ensemble Multi-view Clustering](#jump27)
+    - [Scalable Multi-view Clustering](#jump28)
 - [Benchmark Datasets](#jump3)
     - [Oringinal Datasets](#jump31)
     - [Kernelized Datasets](#jump32)
@@ -90,6 +91,10 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump27"> Ensemble-based Multi-view Clustering</span> 
 1. TNNLS2019: Marginalized Multiview Ensemble Clustering [Paper](https://ieeexplore.ieee.org/document/8691702) [code](https://pan.baidu.com/s/1ipfGlQKcBTQn71yP3ZbISQ)
+
+
+### <span id="jump28"> Ensemble-based Multi-view Clustering</span> 
+1. TPAMI 2021: Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [Paper](https://ieeexplore.ieee.org/document/9146384) [code](: https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ) code:fvnh
 
 
 
