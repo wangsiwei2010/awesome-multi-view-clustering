@@ -45,8 +45,11 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. ICDM2019: Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [Paper](https://www.researchgate.net/profile/Dong_Huang9/publication/335857675_Consistency_Meets_Inconsistency_A_Unified_Graph_Learning_Framework_for_Multi-view_Clustering/links/5d809ca7458515fca16e3776/Consistency-Meets-Inconsistency-A-Unified-Graph-Learning-Framework-for-Multi-view-Clustering.pdf) [code](https://github.com/youweiliang/ConsistentGraphLearning)
 
+1. TMM 2021: Consensus Graph Learning for Multi-view Clustering [code](https://github.com/guanyuezhen/CGL)
 
-### <span id="jump22">Multiple Kenrel Clustering(MKC)</span> 
+
+
+### <span id="jump22">Multiple Kernel Clustering(MKC)</span> 
 1. NIPS14: Localized Data Fusion for Kernel k-Means Clustering with Application to Cancer Biology [Paper](https://papers.nips.cc/paper/5236-localized-data-fusion-for-kernel-k-means-clustering-with-application-to-cancer-biology.pdf) [code](https://github.com/mehmetgonen/lmkkmeans)
 
 1. IJCAI15： Robust Multiple Kernel K-means using L21-norm [Paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11332/11224) [code](https://github.com/csliangdu/RMKKM)
@@ -75,11 +78,18 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump24">Deep Multi-view Clustering</span> 
 1. CVPR2019:  AE^2-Nets: Autoencoder in Autoencoder Networks [Paper](http://cic.tju.edu.cn/faculty/zhangchangqing/pub/AE2_Nets.pdf) [code](https://github.com/willow617/AE2-Nets)
+
 2. TIP2019: Multi-view Deep Subspace Clustering Networks [Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
+
 3. TKDE2020: Joint Deep Multi-View Learning for Image Clustering [Paper](https://ieeexplore.ieee.org/abstract/document/8999493/)
+
 4. ICML2019: COMIC: Multi-view Clustering Without Parameter Selection [paper](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf) [code](https://github.com/limit-scu/2019-ICML-COMIC)
+
 5. IJCAI2019: Multi-view Spectral Clustering Network [paper](https://www.ijcai.org/Proceedings/2019/0356.pdf) [code](https://github.com/limit-scu/2019-IJCAI-MvSCN)
+
 6. IJCAI2019: Deep Adversarial Multi-view Clustering Network [paper](https://www.ijcai.org/Proceedings/2019/0409.pdf) [code](https://github.com/IMKBLE/DAMC)
+
+7. KBS2021：Multi-view clustering via deep concept factorization [code](https://github.com/AeroAsukara/Multi-view-clustering-via-deep-concept-factorization)
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
 1. TPAMI2019: Binary Multi-View Clustering [Paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) [code](https://github.com/DarrenZZhang/BMVC)
@@ -95,6 +105,8 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 ### <span id="jump28"> Scalable Multi-view Clustering</span> 
 1. TPAMI 2021: Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [Paper](https://ieeexplore.ieee.org/document/9146384) [code](: https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ) code:fvnh
+
+1. ACM MM2021: Scalable Multi-view Subspace Clustering with Unified Anchors [paper](https://www.researchgate.net/publication/353971911_Scalable_Multi-view_Subspace_Clustering_with_Unified_Anchors) [code](https://github.com/wangsiwei2010/SMVSC)
 
 
 
