@@ -111,6 +111,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. ACM MM2021: Scalable Multi-view Subspace Clustering with Unified Anchors [paper](https://www.researchgate.net/publication/353971911_Scalable_Multi-view_Subspace_Clustering_with_Unified_Anchors) [code](https://github.com/wangsiwei2010/SMVSC)
 
+1. AAAI2022: Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors  [code](https://github.com/Tracesource/EOMSC-CA)
 
 
 
