@@ -107,7 +107,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 ### <span id="jump28"> Scalable Multi-view Clustering</span> 
 1. TPAMI 2021: Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [Paper](https://ieeexplore.ieee.org/document/9146384) [code]( https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ) fvnh
 
-1. AAAI20: arge-scale Multi-view Subspace Clustering in Linear Time [paper](https://www.researchgate.net/publication/342540476_Large-Scale_Multi-View_Subspace_Clustering_in_Linear_Time) [code](https://github.com/sckangz/LMVSC)
+1. AAAI20: Large-scale Multi-view Subspace Clustering in Linear Time [paper](https://www.researchgate.net/publication/342540476_Large-Scale_Multi-View_Subspace_Clustering_in_Linear_Time) [code](https://github.com/sckangz/LMVSC)
 
 1. ACM MM2021: Scalable Multi-view Subspace Clustering with Unified Anchors [paper](https://www.researchgate.net/publication/353971911_Scalable_Multi-view_Subspace_Clustering_with_Unified_Anchors) [code](https://github.com/wangsiwei2010/SMVSC)
 
