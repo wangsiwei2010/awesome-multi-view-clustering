@@ -101,11 +101,11 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 ### <span id="jump27"> Ensemble-based Multi-view Clustering</span> 
-1. TNNLS2019: Marginalized Multiview Ensemble Clustering [Paper](https://ieeexplore.ieee.org/document/8691702) [code](https://pan.baidu.com/s/1ipfGlQKcBTQn71yP3ZbISQ) fvnh
+1. TNNLS2019: Marginalized Multiview Ensemble Clustering [Paper](https://ieeexplore.ieee.org/document/8691702) [code](https://pan.baidu.com/s/1ipfGlQKcBTQn71yP3ZbISQ) 
 
 
 ### <span id="jump28"> Scalable Multi-view Clustering</span> 
-1. TPAMI 2021: Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [Paper](https://ieeexplore.ieee.org/document/9146384) [code]( https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ) 
+1. TPAMI 2021: Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [Paper](https://ieeexplore.ieee.org/document/9146384) [code]( https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ) fvnh
 
 1. AAAI20: arge-scale Multi-view Subspace Clustering in Linear Time [paper](https://www.researchgate.net/publication/342540476_Large-Scale_Multi-View_Subspace_Clustering_in_Linear_Time) [code](https://github.com/sckangz/LMVSC)
 
