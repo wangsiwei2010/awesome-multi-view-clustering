@@ -78,7 +78,9 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 ### <span id="jump24">Deep Multi-view Clustering</span> 
-1. CVPR2019:  AE^2-Nets: Autoencoder in Autoencoder Networks [Paper](http://cic.tju.edu.cn/faculty/zhangchangqing/pub/AE2_Nets.pdf) [code](https://github.com/willow617/AE2-Nets)
+1. STSP 2018: Deep Multimodal Subspace Clustering Networks(DMSC)[<a href= "https://arxiv.org/pdf/1804.06498.pdf" target="_blank">Paper</a>] [<a href="https://github.com/mahdiabavisani/Deep-multimodal-subspace-clustering-networks" target="_blank">Code</a>]
+
+1. CVPR 2019:  AE^2-Nets: Autoencoder in Autoencoder Networks [Paper](http://cic.tju.edu.cn/faculty/zhangchangqing/pub/AE2_Nets.pdf) [code](https://github.com/willow617/AE2-Nets)
 
 2. TIP2019: Multi-view Deep Subspace Clustering Networks [Paper](https://arxiv.org/abs/1908.01978) [code](https://github.com/huybery/MvDSCN)
 
