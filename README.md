@@ -134,15 +134,17 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 28. TPAMI 2021: Adaptive Graph Auto-Encoder for General Data Clustering(AdaGAE)[<a href= "https://ieeexplore.ieee.org/document/9606581" target="_blank">Paper</a>] [<a href="https://github.com/hyzhang98/AdaGAE" target="_blank">Code</a>]
 
-29. AAAI 2022: Stationary Diffusion State Neural Estimation for Multiview Clustering(SDSNE)[<a href= "https://www.aaai.org/AAAI22Papers/AAAI-184.LiuC.pdf" target="_blank">Paper</a>] [<a href="https://github.com/kunzhan/SDSNE" target="_blank">Code</a>]
+29. ACMMM 2021: Consistent Multiple Graph Embedding for Multi-View Clustering(CMGEC)[<a href= "https://arxiv.org/pdf/2105.04880.pdf" target="_blank">Paper</a>] [<a href="https://github.com/wangemm/CMGEC" target="_blank">Code</a>]
 
-30. CVPR 2022: Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase(DSMVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSMVC" target="_blank">Code</a>]
+30. AAAI 2022: Stationary Diffusion State Neural Estimation for Multiview Clustering(SDSNE)[<a href= "https://www.aaai.org/AAAI22Papers/AAAI-184.LiuC.pdf" target="_blank">Paper</a>] [<a href="https://github.com/kunzhan/SDSNE" target="_blank">Code</a>]
 
-31. CVPR 2022: Multi-level Feature Learning for Contrastive Multi-view Clustering(MFLVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/MFLVC" target="_blank">Code</a>]
+31. CVPR 2022: Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase(DSMVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSMVC" target="_blank">Code</a>]
 
-32. IJCAI 2022: Contrastive Multi-view Hyperbolic Hierarchical Clustering(CMHHC)[<a href= "https://arxiv.org/pdf/2205.02618.pdf" target="_blank">Paper</a>]
+32. CVPR 2022: Multi-level Feature Learning for Contrastive Multi-view Clustering(MFLVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/MFLVC" target="_blank">Code</a>]
 
-33. NN 2022: Multi-view Graph Embedding Clustering Network：Joint Self-supervision and Block Diagonal Representation(MVGC)[<a href= "https://www.sciencedirect.com/science/article/pii/S089360802100397X" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/NN-2022-MVGC" target="_blank">Code</a>]
+33. IJCAI 2022: Contrastive Multi-view Hyperbolic Hierarchical Clustering(CMHHC)[<a href= "https://arxiv.org/pdf/2205.02618.pdf" target="_blank">Paper</a>]
+
+34. NN 2022: Multi-view Graph Embedding Clustering Network：Joint Self-supervision and Block Diagonal Representation(MVGC)[<a href= "https://www.sciencedirect.com/science/article/pii/S089360802100397X" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/NN-2022-MVGC" target="_blank">Code</a>]
 
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
