@@ -156,7 +156,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 
 ### <span id="jump27"> Ensemble-based Multi-view Clustering</span> 
-1. TNNLS2019: Marginalized Multiview Ensemble Clustering [Paper](https://ieeexplore.ieee.org/document/8691702) [code](https://pan.baidu.com/s/1ipfGlQKcBTQn71yP3ZbISQ) 
+1. TNNLS2019: Marginalized Multiview Ensemble Clustering [Paper](https://ieeexplore.ieee.org/document/8691702) [code](https://pan.baidu.com/s/15033GUCWM5SWFlyzIkYVOg) 
 
 
 ### <span id="jump28"> Scalable Multi-view Clustering</span> 
