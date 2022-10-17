@@ -80,6 +80,14 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 5. IJCAI2019: Multi-view Spectral Clustering Network [paper](https://www.ijcai.org/Proceedings/2019/0356.pdf) [code](https://github.com/limit-scu/2019-IJCAI-MvSCN)
 6. IJCAI2019: Deep Adversarial Multi-view Clustering Network [paper](https://www.ijcai.org/Proceedings/2019/0409.pdf) [code](https://github.com/IMKBLE/DAMC)
 
+### <span id="jump24">Deep Incomplete Multi-view Clustering</span> 
+1. NeurIPS2019: CPM-Nets: Cross Partial Multi-View Networks [Paper](https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf) [code](https://github.com/hanmenghan/CPM_Nets)
+2. TIP2020: Generative Partial Multi-View Clustering [paper](https://arxiv.org/abs/2003.13088) [code](https://github.com/IMKBLE/PVC-GAN)
+3. CVPR2021: COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction [Paper](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)[code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+4. TIP2021: iCmSC: Incomplete Cross-modal Subspace Clustering [paper](https://ieeexplore.ieee.org/abstract/document/9259207) [code](https://github.com/IMKBLE/iCmSC)
+5. TPAMI2022: Deep Partial Multi-View Learning [paper](https://arxiv.org/abs/2011.06170) [code]([https://github.com/IMKBLE/DAMC](https://github.com/hanmenghan/CPM_Nets))
+6. TPAMI2022: Dual Contrastive Prediction for Incomplete Multi-view Representation Learning [Paper](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) [code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+
 ### <span id="jump25">Binary Multi-view Clustering</span> 
 1. TPAMI2019: Binary Multi-View Clustering [Paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) [code](https://github.com/DarrenZZhang/BMVC)
 
