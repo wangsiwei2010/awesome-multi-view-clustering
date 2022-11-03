@@ -104,7 +104,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 13. TKDE 2020: Joint Deep Multi-View Learning for Image Clustering(DMJC)[<a href= "https://ieeexplore.ieee.org/abstract/document/8999493/" target="_blank">Paper</a>]
 
-14. WWW 2020: One2Multi Graph Autoencoder for Multi-view Graph Clustering(O2MVC)[<a href= "http://shichuan.org/doc/83.pdf" target="_blank">Paper</a>] [<a href="https://github.com/googlebaba/WWW2020-O2MAC" target="_blank">Code</a>]
+14. WWW 2020: One2Multi Graph Autoencoder for Multi-view Graph Clustering(O2MAC)[<a href= "http://shichuan.org/doc/83.pdf" target="_blank">Paper</a>] [<a href="https://github.com/googlebaba/WWW2020-O2MAC" target="_blank">Code</a>]
 
 15. AAAI 2021: Deep Mutual Information Maximin for Cross-Modal Clustering(DMIM)[<a href= "https://ojs.aaai.org/index.php/AAAI/article/view/17076/16883" target="_blank">Paper</a>]
 
