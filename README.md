@@ -146,14 +146,19 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 34. NN 2022: Multi-view Graph Embedding Clustering Network：Joint Self-supervision and Block Diagonal Representation(MVGC)[<a href= "https://www.sciencedirect.com/science/article/pii/S089360802100397X" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/NN-2022-MVGC" target="_blank">Code</a>]
 
+35. IPM 2023: Joint Contrastive Triple-learning for Deep Multi-view Clustering(JCT)[<a href= "https://www.sciencedirect.com/science/article/abs/pii/S0306457323000213" target="_blank">Paper</a>] [<a href="https://github.com/ShizheHu/Joint-Contrastive-Triple-learning" target="_blank">Code</a>]
+
+36. 2023: Tensorized Adaptive Deep Multi-view Subspace Clustering[<a href="https://github.com/YanghangZheng-GDUT/Tensorized-Adaptive-Deep-Multi-view-Subspace-Clustering" target="_blank">Code</a>]
+
 
 ### <span id="jump24">Deep Incomplete Multi-view Clustering</span> 
-1. NeurIPS2019: CPM-Nets: Cross Partial Multi-View Networks [Paper](https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf) [code](https://github.com/hanmenghan/CPM_Nets)
-2. TIP2020: Generative Partial Multi-View Clustering [paper](https://arxiv.org/abs/2003.13088) [code](https://github.com/IMKBLE/PVC-GAN)
-3. CVPR2021: COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction [Paper](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)[code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
-4. TIP2021: iCmSC: Incomplete Cross-modal Subspace Clustering [paper](https://ieeexplore.ieee.org/abstract/document/9259207) [code](https://github.com/IMKBLE/iCmSC)
-5. TPAMI2022: Deep Partial Multi-View Learning [paper](https://arxiv.org/abs/2011.06170) [code]([https://github.com/IMKBLE/DAMC](https://github.com/hanmenghan/CPM_Nets))
-6. TPAMI2022: Dual Contrastive Prediction for Incomplete Multi-view Representation Learning [Paper](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) [code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+1. NeurIPS 2019: CPM-Nets: Cross Partial Multi-View Networks [Paper](https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf) [code](https://github.com/hanmenghan/CPM_Nets)
+2. TIP 2020: Generative Partial Multi-View Clustering [paper](https://arxiv.org/abs/2003.13088) [code](https://github.com/IMKBLE/PVC-GAN)
+3. CVPR 2021: COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction [Paper](http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf)[code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+4. TIP 2021: iCmSC: Incomplete Cross-modal Subspace Clustering [paper](https://ieeexplore.ieee.org/abstract/document/9259207) [code](https://github.com/IMKBLE/iCmSC)
+5. TPAMI 2022: Deep Partial Multi-View Learning [paper](https://arxiv.org/abs/2011.06170) [code]([https://github.com/IMKBLE/DAMC](https://github.com/hanmenghan/CPM_Nets))
+6. TPAMI 2022: Dual Contrastive Prediction for Incomplete Multi-view Representation Learning [Paper](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf) [code](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+7. ICML 2022: Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm[<a href= "https://proceedings.mlr.press/v162/tang22c/tang22c.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSIMVC" target="_blank">Code</a>]
 
 ### <span id="jump25">Binary Multi-view Clustering</span> 
 1. TPAMI2019: Binary Multi-View Clustering [Paper](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf) [code](https://github.com/DarrenZZhang/BMVC)
