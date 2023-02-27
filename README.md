@@ -1,7 +1,7 @@
 # awesome multi-view clustering
 Collections for state-of-the-art (SOTA), novel multi-view clustering methods (papers, codes and datasets)
 
-We are looking forward for other participants to share their papers and codes. If interested, please contanct <wangsiwei13@nudt.edu.cn>.
+We are looking forward for other participants to share their papers and codes. If interested, please contact <wangsiwei13@nudt.edu.cn>.
 
 ##  Table of Contents
 - [Surveys](#jump1) 
