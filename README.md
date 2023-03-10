@@ -57,7 +57,7 @@ Papers are listed in the following methods:graph clustering, NMF-based clusterin
 
 1. AAAI16：Multiple Kernel k-Means Clustering with Matrix-Induced Regularization [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12115/11819) [code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)
 
-1. IJCAI19:  Multi-view Clustering with Late Fusion Alignment Maximization [Paper](https://www.ijcai.org/proceedings/2019/0524.pdf) [code](https://github.com/wangsiwei2010/latefusionalignment)
+1. IJCAI19:  Multi-view Clustering via Late Fusion Alignment Maximization [Paper](https://www.ijcai.org/proceedings/2019/0524.pdf) [code](https://github.com/wangsiwei2010/latefusionalignment)
 
 1. TNNLS2019:  Multiple kernel clustering with neighbor-kernel subspace segmentation [Paper](https://ieeexplore.ieee.org/document/8750871) [code](https://github.com/SihangZhou/Demo-of-Multiple-Kernel-Clustering-with-Neighbor-Kernel-Subspace-Segmentation)
 
